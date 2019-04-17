@@ -1,0 +1,120 @@
+﻿<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="enable" id="X;4:1e~kQX?NGgIR^SAx" x="31" y="-95">
+    <next>
+      <block type="while_true" id="qHCa5}:X.U1548X689X1">
+        <statement name="DO">
+          <block type="arrow1_on" id="He*%ZFqFVwlg,l)Bfel(">
+            <next>
+              <block type="print" id="}-fI.}~C7e;09aa,4G}b">
+                <field name="print">arrow1 is on</field>
+                <next>
+                  <block type="sleep" id="xI,sso(;nAH]#D?YIyOA">
+                    <field name="sleepTime">1</field>
+                    <next>
+                      <block type="arrow1_off" id="cx0OK81M0`RKiANm94E|">
+                        <next>
+                          <block type="print" id="~Y]w?{Z5rP.O38vEN=K+">
+                            <field name="print">arrow1 is off</field>
+                            <next>
+                              <block type="sleep" id="#yy_Xgw|_=WF]vU8:L{e">
+                                <field name="sleepTime">1</field>
+                                <next>
+                                  <block type="arrow2_on" id="/b9=7VaIXhO0]WdOP2UC">
+                                    <next>
+                                      <block type="print" id="FPrqf-!fnptiBcH5i4i4">
+                                        <field name="print">arrow2 is on</field>
+                                        <next>
+                                          <block type="sleep" id="9o5:hK4yP4R!H0C+`=X^">
+                                            <field name="sleepTime">1</field>
+                                            <next>
+                                              <block type="arrow2_off" id="M7c]nz!^;MvwNV15E)Q{">
+                                                <next>
+                                                  <block type="print" id="sUd~*~8@wEQ;16jYu+dp">
+                                                    <field name="print">arrow2 is off</field>
+                                                    <next>
+                                                      <block type="sleep" id="PEaTaO9=)7ZAyAZ(OD8h">
+                                                        <field name="sleepTime">1</field>
+                                                        <next>
+                                                          <block type="arrow3_on" id="N|u-EveK?C6;{Y3owPm^">
+                                                            <next>
+                                                              <block type="print" id="*t_O0*=ip3k(pCm+j=tn">
+                                                                <field name="print">arrow3 is on</field>
+                                                                <next>
+                                                                  <block type="sleep" id="Em%?0*HH#EM[TY/|95T|">
+                                                                    <field name="sleepTime">1</field>
+                                                                    <next>
+                                                                      <block type="arrow3_off" id="k/Az1XMquZo-(SUpE+4l">
+                                                                        <next>
+                                                                          <block type="print" id="RjhDW+?_`[VK_WfNXCgJ">
+                                                                            <field name="print">arrow3 is off</field>
+                                                                            <next>
+                                                                              <block type="sleep" id="Jm1lv~TfC,9k@{))Dtd`">
+                                                                                <field name="sleepTime">1</field>
+                                                                                <next>
+                                                                                  <block type="arrow4_on" id="}Y2kzuOMh``6?.!B40a,">
+                                                                                    <next>
+                                                                                      <block type="print" id="Ftj](5X*t%H!Y@h_K4:v">
+                                                                                        <field name="print">arrow4 is on</field>
+                                                                                        <next>
+                                                                                          <block type="sleep" id="hR%8BogGs*:iTl=pG|Wb">
+                                                                                            <field name="sleepTime">1</field>
+                                                                                            <next>
+                                                                                              <block type="arrow4_off" id="P~=4PSoR1?KJpU@3c(Ck">
+                                                                                                <next>
+                                                                                                  <block type="print" id="1c.d}Ev@Z)Sm)3G^R5MV">
+                                                                                                    <field name="print">arrow4 is off</field>
+                                                                                                    <next>
+                                                                                                      <block type="sleep" id="3a),wJ44r`K%L|-,|e0t">
+                                                                                                        <field name="sleepTime">1</field>
+                                                                                                      </block>
+                                                                                                    </next>
+                                                                                                  </block>
+                                                                                                </next>
+                                                                                              </block>
+                                                                                            </next>
+                                                                                          </block>
+                                                                                        </next>
+                                                                                      </block>
+                                                                                    </next>
+                                                                                  </block>
+                                                                                </next>
+                                                                              </block>
+                                                                            </next>
+                                                                          </block>
+                                                                        </next>
+                                                                      </block>
+                                                                    </next>
+                                                                  </block>
+                                                                </next>
+                                                              </block>
+                                                            </next>
+                                                          </block>
+                                                        </next>
+                                                      </block>
+                                                    </next>
+                                                  </block>
+                                                </next>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>

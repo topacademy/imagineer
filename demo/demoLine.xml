@@ -1,0 +1,36 @@
+﻿<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="enable" id="S_%Y*6H_3[]sxIoDiBLi" x="57" y="45">
+    <next>
+      <block type="while_true" id="Gfj1#A`)za%kj1[ceH1u">
+        <statement name="DO">
+          <block type="ls1Check" id=",9:igd!`eOYM_2D?sj3V">
+            <next>
+              <block type="if" id="vMS.}*Pi[Wq6zczzE/vA">
+                <field name="var">ls1.Triggered</field>
+                <statement name="DO">
+                  <block type="print" id="8YYPF.}Cz)^rrsYNs0,q">
+                    <field name="print">IR1 detected black line</field>
+                  </block>
+                </statement>
+                <next>
+                  <block type="ls2Check" id="SmB{cN|i3Uno]fmW*PHM">
+                    <next>
+                      <block type="if" id="~8t_pFNI-fPX4uB~{nrl">
+                        <field name="var">ls2.Triggered</field>
+                        <statement name="DO">
+                          <block type="print" id="Zg._RyFquA4Qp4B*ZHLr">
+                            <field name="print">IR2 detected black line</field>
+                          </block>
+                        </statement>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>

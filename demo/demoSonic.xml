@@ -1,0 +1,22 @@
+﻿<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="enable" id="uF(9!sK^xt{FswS6!0Gs" x="71" y="21">
+    <next>
+      <block type="while_true" id="+Q8FI%{boT!ZR#4ZAYJ-">
+        <statement name="DO">
+          <block type="sonicCheck" id="J=sDPaw-xUDee|ClBj5w">
+            <next>
+              <block type="if" id="rov1vyC`c-eLd^Q-6nfH">
+                <field name="var">us.Triggered</field>
+                <statement name="DO">
+                  <block type="print" id="W_b%f[@zoT;Xfj~vz6cS">
+                    <field name="print">Sonic detected obstruction</field>
+                  </block>
+                </statement>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </next>
+  </block>
+</xml>
